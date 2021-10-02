@@ -124,6 +124,10 @@ body {
   height: 50px;
 }
 
-#gallary img{
+.team-gallery{
   height: 450px;
+}
+.team-gallery-round{
+  height: 250px;
+  width: 200px;
 }
