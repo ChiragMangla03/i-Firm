@@ -10,7 +10,7 @@ body {
 }
 
 .navbar .nav-item.active {
-  border-left: #444 3px solid;
+  border-bottom: #444 3px solid;
 }
 
 .carousel-item {
@@ -67,7 +67,6 @@ body {
 }
 
 #page-header {
-  height: 200px;
   background: url("../img/image1.jpg");
   background-position: 0 -360px;
   background-attachment: fixed;
